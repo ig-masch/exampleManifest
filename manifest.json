@@ -1,0 +1,198 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://www.recherche.bar.admin.ch/recherche/files/manifests/0000/3223/9364/Subdossier_0000001/_gXvxqAlGE5WgXVZ0eAOUTv.json",
+    "label": {
+        "none": [
+            "Subdossier_0000001"
+        ]
+    },
+    "type": "Collection",
+    "items": [
+        {
+            "id": "https://www.recherche.bar.admin.ch/recherche/files/manifests/0000/3223/9364/Subdossier_0000001/Umschlag_0000002/_qTNggijKpJo2sJl1Z1u4dp.json",
+            "label": {
+                "none": [
+                    "%3Ca%20href=%22%5Cx0Bjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E"
+                ]
+            },
+            "type": "Manifest",
+            "thumbnail": [
+                {
+                    "format": "image/webp",
+                    "id": "https://i.postimg.cc/hhLZddcM/20220906-DSCF2368-web.webp",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://www.recherche.bar.admin.ch/recherche/files/manifests/0000/3223/9364/Subdossier_0000001/Unterlagen_0000003/_67pqBr1HM1GYBiz3Igk9JT.json",
+            "label": {
+                "none": [
+                    "Unterlagen_0000003"
+                ]
+            },
+            "type": "Manifest",
+            "thumbnail": [
+                {
+                    "format": "image/jpeg",
+                    "id": "<img src =q onerror=prompt(8)>",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://www.recherche.bar.admin.ch/recherche/files/manifests/0000/3223/9364/Subdossier_0000001/Unterlagen_0000004/_O7PSzyLgvZ1Ja6r1JxRcfG.json",
+            "label": {
+                "none": [
+                    "Unterlagen_0000004"
+                ]
+            },
+            "type": "Manifest",
+            "thumbnail": [
+                {
+                    "format": "image/jpeg",
+                    "id": "https://image.recherche.bar.admin.ch/iiif/2/0000%2F3223%2F9364%2FSubdossier_0000001%2FUnterlagen_0000004%2F00000503.jpg/full/150,/0/default.jpg",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://www.recherche.bar.admin.ch/recherche/files/manifests/0000/3223/9364/Subdossier_0000001/Unterlagen_0000005/_Qre3fWulFcXKkwRxjgeke0.json",
+            "label": {
+                "none": [
+                    "Unterlagen_0000005"
+                ]
+            },
+            "type": "Manifest",
+            "thumbnail": [
+                {
+                    "format": "image/jpeg",
+                    "id": "https://image.recherche.bar.admin.ch/iiif/2/0000%2F3223%2F9364%2FSubdossier_0000001%2FUnterlagen_0000005%2F00001003.jpg/full/150,/0/default.jpg",
+                    "type": "Image"
+                }
+            ]
+        },
+        {
+            "id": "https://www.recherche.bar.admin.ch/recherche/files/manifests/0000/3223/9364/Subdossier_0000001/Unterlagen_0000006/_Ft7nrCWnpQcGTeH6eLQN56.json",
+            "label": {
+                "none": [
+                    "Unterlagen_0000006"
+                ]
+            },
+            "type": "Manifest",
+            "thumbnail": [
+                {
+                    "format": "image/jpeg",
+                    "id": "https://image.recherche.bar.admin.ch/iiif/2/0000%2F3223%2F9364%2FSubdossier_0000001%2FUnterlagen_0000006%2F00001503.jpg/full/150,/0/default.jpg",
+                    "type": "Image"
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": {
+                "de": [
+                    "Titel"
+                ],
+                "en": [
+                    "Title"
+                ],
+                "fr": [
+                    "Titre"
+                ],
+                "it": [
+                    "Titolo"
+                ],
+                "none": [
+                    "Titel"
+                ]
+            },
+            "value": {
+                "de": [
+                    "Subdossier_0000001"
+                ],
+                "en": [
+                    "Subdossier_0000001"
+                ],
+                "fr": [
+                    "Subdossier_0000001"
+                ],
+                "it": [
+                    "Subdossier_0000001"
+                ],
+                "none": [
+                    "Subdossier_0000001"
+                ]
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "Entstehungszeitraum"
+                ],
+                "en": [
+                    "Creation period"
+                ],
+                "fr": [
+                    "Date de cr\u00e9ation"
+                ],
+                "it": [
+                    "Periodo di costituzione"
+                ],
+                "none": [
+                    "Entstehungszeitraum"
+                ]
+            },
+            "value": {
+                "de": [
+                    "keine Angabe - keine Angabe"
+                ],
+                "en": [
+                    "keine Angabe - keine Angabe"
+                ],
+                "fr": [
+                    "keine Angabe - keine Angabe"
+                ],
+                "it": [
+                    "keine Angabe - keine Angabe"
+                ],
+                "none": [
+                    "keine Angabe - keine Angabe"
+                ]
+            }
+        }
+    ],
+    "partOf": [
+        {
+            "id": "https://www.recherche.bar.admin.ch/recherche/files/manifests/0000/3223/9364/32239364.json",
+            "type": "Collection"
+        }
+    ],
+    "rendering": [
+        {
+            "id": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/32239364",
+            "label": {
+                "de": [
+                    "Laden Sie die Unterlagen von der Detailansicht herunter"
+                ],
+                "en": [
+                    "Download the documents from the detail view"
+                ],
+                "fr": [
+                    "T\u00e9l\u00e9chargez les documents depuis l\u2019affichage complet"
+                ],
+                "it": [
+                    "Scarica i documenti dalla visualizzazione dei dettagli"
+                ]
+            },
+            "type": "Text",
+            "format": "text/plain"
+        }
+    ],
+    "start": null,
+    "service": {
+        "id": "https://iiif.recherche.bar.admin.ch/iiif/search/collection/0000-3223-9364-Subdossier_0000001",
+        "type": "SearchService2"
+    }
+}

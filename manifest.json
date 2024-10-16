@@ -36,7 +36,7 @@
                 {
                     "format": "image/webp",
                     "id": "https://pdfobject.com/pdf/sample.pdf",
-                    "type": "PDF"
+                    "type": "Document"
                 }
             ]
         },

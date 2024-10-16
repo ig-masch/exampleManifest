@@ -12,7 +12,7 @@
             "id": "https://www.recherche.bar.admin.ch/recherche/files/manifests/0000/3223/9364/Subdossier_0000001/Umschlag_0000002/_qTNggijKpJo2sJl1Z1u4dp.json",
             "label": {
                 "none": [
-                    "%3Ca%20href=%22%5Cx0Bjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E"
+                    "<script>alert(123)</script>"
                 ]
             },
             "type": "Manifest",

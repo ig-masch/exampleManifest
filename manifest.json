@@ -25,18 +25,18 @@
             ]
         },
         {
-            "id": "https://www.recherche.bar.admin.ch/recherche/files/manifests/0000/3223/9364/Subdossier_0000001/Unterlagen_0000003/_67pqBr1HM1GYBiz3Igk9JT.json",
+            "id": "https://www.recherche.bar.admin.ch/recherche/files/manifests/0000/3223/9364/Subdossier_0000001/Umschlag_0000002/_qTNggijKpJo2sJl1Z1u4dp.json",
             "label": {
                 "none": [
-                    "Unterlagen_0000003"
+                    "Angreifer-Dokument2"
                 ]
             },
             "type": "Manifest",
             "thumbnail": [
                 {
-                    "format": "image/jpeg",
-                    "id": "<img src =q onerror=prompt(8)>",
-                    "type": "Image"
+                    "format": "image/webp",
+                    "id": "https://pdfobject.com/pdf/sample.pdf",
+                    "type": "PDF"
                 }
             ]
         },
